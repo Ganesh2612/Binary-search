@@ -27,5 +27,5 @@ f=m+1;
 }
 if(flag==0)
 printf("element is not found");
-return 1;
+return 10;
 }
